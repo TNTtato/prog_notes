@@ -48,6 +48,7 @@ Se puede modularizar las funciones y tienen la posibilidad de compartir, se llam
 Se pueden pasar argumentos a una funcion de dos maneras:
 
 - **Paso por Valor**: Se pasa directamente el valor como argumento a una funcion, lo que hace que duplique o se haga una copia del argumento que se ha pasado:
+
 ```java
 suma(a: 3, b: 4);
 //
@@ -84,6 +85,7 @@ func suma(a int, b int, c *int) { //Definicion de una funcion
 Son funciones que retornan un resultado y luego se llama a si misma para volver a ejecutarse, estas funciones deben contar con condiones de clausura para evitar bucles infinitos
 
 **Ejemplo recursion Python:**
+
 ```py
 def recur_fibo(n): #Se usa la recursion para calcular el termino n, de la serie de Fibonacci
 #la clausura o termino de ejecucion llega cuando n <= 1
