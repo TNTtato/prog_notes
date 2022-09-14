@@ -1,6 +1,6 @@
 # Introduccion
 
-## First Languajes 
+## First Languages 
 - Cobol
 - Fortran
 - Bcpl: precursor de C
