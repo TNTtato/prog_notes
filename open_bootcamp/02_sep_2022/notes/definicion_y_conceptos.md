@@ -47,7 +47,7 @@ Los parametros solo existen dentro de las funciones, a esto se le conoce como sc
 Se puede modularizar las funciones y tienen la posibilidad de compartir, se llaman librerias
 Se pueden pasar argumentos a una funcion de dos maneras:
 
-- **Paso por Valor**: Se pasa directamente el valor como argumento a una funcion, lo que hace que duplique o se haga una copia del argumento que se ha pasado:
+- **Paso por Valor**: Se pasa directamente el valor como argumento a una funcion, lo que hace que duplique o se haga una copia del argumento que se ha pasado
 
 ```java
 suma(a: 3, b: 4);
