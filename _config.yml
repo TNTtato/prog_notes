@@ -15,3 +15,5 @@ include:
   - Introduccion.md
 
 theme: jekyll-theme-tactile
+
+source: /**/.md

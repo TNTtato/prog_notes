@@ -33,6 +33,8 @@ Lenguajes de proposito general
 1. **Tipado**: Puedo almacenar datos, indicando el tipo de dato
 2. **No tipado**: Puedo almacenar datos, sin indicar el tipo de dato
 
+---
+---
 ## Por Aplicaciones
 
 1. **Web**: se divide en frontend y backend
