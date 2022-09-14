@@ -45,7 +45,7 @@ Lenguajes de proposito general
 
 3. **Moviles**: Son las que corren en dispositivos moviles: tiene interfaz y codigo de back
 
-**Distinciones**: Cambia la logica y las arquitecturas.
+    **Distinciones**: Cambia la logica y las arquitecturas.
 
 4. **Clientes-Servidor**: Es la comunicacion entre front y back, el cliente (front) pide y el servidor (back) da.
 - Protocolo: HTTP
