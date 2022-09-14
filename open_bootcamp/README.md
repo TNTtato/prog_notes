@@ -3,7 +3,7 @@
 ## Entradas por fechas:
 
 - **01/Septiembre/2022**
-    - [Introduccion](/open_bootcamp/01_sep_2022/notes/Introduccion.md)
+    - [Introduccion](/open_bootcamp/01_sep_2022/notes/Introduccion.html)
     - [Memoria del computador](/open_bootcamp/01_sep_2022/notes/Memoria.md)
     - [Instalacion JAVA y del IDE Intellij](/open_bootcamp/01_sep_2022/notes/instlacion_java_intellij.md)
 
