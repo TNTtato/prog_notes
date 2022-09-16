@@ -1,4 +1,4 @@
-# Notas del Curriculo de Openbootcamp
+# Notas del Curriculo de Openbootcamp: Curso Introductorio
 
 ## Entradas por fechas:
 

@@ -1,3 +1,6 @@
 # NOTAS DE PROGRAMACION
 
-- [Notas del curriculo de Openbootcamp](/open_bootcamp/README.md)
+## Curriculo Open Bootcamp
+
+- [Curso introductorio](/open_bootcamp/OPBCIntroductory.md)
+- [Curso Python](/open_bootcamp/OPBCPython.md)
