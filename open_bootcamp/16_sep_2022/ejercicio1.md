@@ -6,4 +6,4 @@ Desde la consola de python almacena la cadena “Hola mundo!” en una variable 
 
 **Solution**:
 
-![Solution](/open_bootcamp/16_sep_2022/ejercicio1.png)
+![Solution](ejercicio1.png/ejercicio1.png)
