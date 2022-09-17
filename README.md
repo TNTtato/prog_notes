@@ -7,4 +7,4 @@
 
 ## Udacity
 
-- [Intro to Algorithims](./udacity/Udacity_intro_algorithims.md)
+- [Intro to Algorithms](./udacity/Udacity_intro_algorithims.md)
