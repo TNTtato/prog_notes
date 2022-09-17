@@ -1,4 +1,4 @@
-# Udacity Curriculum Notes: Intro Algorithims Course
+# Udacity Curriculum Notes: Intro Algorithms Course
 
 ## Entries by date:
 
