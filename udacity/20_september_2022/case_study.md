@@ -67,3 +67,25 @@ $$= xy + z$$
 Given that the loop goes while $x > 0$ that means that when $x = 0$ the loop will terminate, so $$ xy + z = ab$$
 $$0y + z$$
 $$z + ab$$
+
+## Running time of naive(a,b)
+
+The larger the inputs, the longer the execution time.
+
+If you make a graph, which plots the computational time, against the number being calculated, the graph will look like this:
+
+![case study 1](./case_study1.png)
+
+The x-axis represents numbers in the order of billions, and the y-axis is time in seconds.
+
+How does running time `t` relate to input `n`?
+
+A. Roughly constant $t \approx c$
+
+B. Roughly logarithmic $t \approx log(n)$
+
+C. Roughly linear $t \approx cn$
+
+D. Roughly exponential $t \approx c^n$
+
+The answer is C.
