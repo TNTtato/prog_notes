@@ -13,3 +13,7 @@
     - [Ejercicio 3](./17_sep_2022/ejercicio3.md)
     - [Estructras de Control](./17_sep_2022/estructuras_control.md)
     - [Ejercicio 4](./17_sep_2022/ejercicio4.md)
+
+- **20/Septiembre/2022**
+    - [Definicion y Uso de Funciones](./20_sep_2022/def_funciones.md)
+    - [Ejercicio 5](./20_sep_2022/ejercicio5.md)
