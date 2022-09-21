@@ -37,36 +37,26 @@ The answer is E, because `Y` is added, as many times as `X`
 ## Correctness of naive(a, b) = ab
 
 *claim: Before or after "while" loop,*
-$$
-ab = xy + z
-$$
+
+![first eq](./case_study_img/first_eq.png)
 
 **Proof**
 
 *In Base Case: First Time Through,*
 
-$$
-x = a, y = b, z = 0
-$$
+![second eq](./case_study_img/second_eq.png)
 
 *Based in claim:*
 
-$$
-ab = ab + 0
-$$
+![third eq](./case_study_img/third_eq.png)
 
 *Inductive step*
 
-If $ab = xy + z$, before, then $ab = x'y' + z'$ after
+![ind header](./case_study_img/inductive_step_header.png)
 
-That holds for the entire loop, beacuse $x' = x - 1, y' = y, z' = z + y$ So it must follow that
-$$x'y' + z' = (x -1)(y) + (z + y)$$ 
-$$= xy - y + z + y$$ 
-$$= xy + z$$
+Given that the loop goes while `x > 0` that means that when `x = 0` the loop will terminate, so 
 
-Given that the loop goes while $x > 0$ that means that when $x = 0$ the loop will terminate, so $$ xy + z = ab$$
-$$0y + z$$
-$$z + ab$$
+![fourth eqs](./case_study_img/fourth_eqs.png)
 
 ## Running time of naive(a,b)
 
@@ -80,12 +70,6 @@ The x-axis represents numbers in the order of billions, and the y-axis is time i
 
 How does running time `t` relate to input `n`?
 
-A. Roughly constant $t \approx c$
-
-B. Roughly logarithmic $t \approx log(n)$
-
-C. Roughly linear $t \approx cn$
-
-D. Roughly exponential $t \approx c^n$
+![final opts](./case_study_img/final_opts.png)
 
 The answer is C.
