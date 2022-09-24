@@ -8,3 +8,7 @@
 ## Udacity
 
 - [Intro to Algorithms](./udacity/Udacity_intro_algorithims.md)
+
+## Project Ideas
+
+- [Translator](./projects_ideas/translator.md)
