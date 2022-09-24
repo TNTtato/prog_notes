@@ -12,3 +12,4 @@
 ## Project Ideas
 
 - [Translator](./projects_ideas/translator.md)
+- [Answering Bot](./projects_ideas/answering_bot.md)
