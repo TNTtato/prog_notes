@@ -14,3 +14,4 @@
 - [Translator](./projects_ideas/translator.md)
 - [Answering Bot](./projects_ideas/answering_bot.md)
 - [Buz-Mess](./projects_ideas/bus_mess_bot.md)
+- [Web Scrapper](./projects_ideas/web_scrapper.md)
