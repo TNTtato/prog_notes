@@ -16,3 +16,4 @@
 - [Buz-Mess](./projects_ideas/bus_mess_bot.md)
 - [Web Scrapper](./projects_ideas/web_scrapper.md)
 - [Group Event App](./projects_ideas/group_event_app.md)
+- [RPG Game](./projects_ideas/RPG_game.md)
